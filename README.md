@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Alekreis
-- 👀 I’m interested in progamming, football, games mobile and animes
-- 🌱 I’m currently learning languages frontend
+## 👋 Hi, I’m Alex Reis
+- 👀 I’m interested in progamming, football, mobile games and animes
+- 🌱 I’m currently learning Java and others backend skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in instagram @c_alexreis
-
-<!---
-Alekreis/Alekreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
